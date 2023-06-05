@@ -1,1 +1,1 @@
-https://github.com/bodyguard38/jenkinsfile-pipeline-project.git
+print('My first python job which is run within Jenkinsfile.')
